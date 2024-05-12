@@ -7,6 +7,6 @@
   ],
   "name": "developer kickstart week1",
   "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sfdcLoginUrl": "https://curious-unicorn-en5o70-dev-ed.trailblaze.lightning.force.com",
   "sourceApiVersion": "57.0"
 }
